@@ -1,0 +1,14 @@
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\bin\Debug\netcoreapp3.1\classwork.exe
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\bin\Debug\netcoreapp3.1\classwork.deps.json
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\bin\Debug\netcoreapp3.1\classwork.runtimeconfig.json
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\bin\Debug\netcoreapp3.1\classwork.runtimeconfig.dev.json
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\bin\Debug\netcoreapp3.1\classwork.dll
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\bin\Debug\netcoreapp3.1\classwork.pdb
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.csproj.AssemblyReference.cache
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.AssemblyInfoInputs.cache
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.AssemblyInfo.cs
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.csproj.CoreCompileInputs.cache
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.dll
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.pdb
+C:\Users\simar\OneDrive\Desktop\task\classwork\classwork\obj\Debug\netcoreapp3.1\classwork.genruntimeconfig.cache

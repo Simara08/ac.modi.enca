@@ -1,0 +1,14 @@
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\bin\Debug\netcoreapp3.1\Printable.exe
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\bin\Debug\netcoreapp3.1\Printable.deps.json
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\bin\Debug\netcoreapp3.1\Printable.runtimeconfig.json
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\bin\Debug\netcoreapp3.1\Printable.runtimeconfig.dev.json
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\bin\Debug\netcoreapp3.1\Printable.dll
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\bin\Debug\netcoreapp3.1\Printable.pdb
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.csproj.AssemblyReference.cache
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.AssemblyInfoInputs.cache
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.AssemblyInfo.cs
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.csproj.CoreCompileInputs.cache
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.dll
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.pdb
+C:\Users\simar\OneDrive\Desktop\Printable\Printable\obj\Debug\netcoreapp3.1\Printable.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\bin\Debug\netcoreapp3.1\ExceptionMethods.exe
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\bin\Debug\netcoreapp3.1\ExceptionMethods.deps.json
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\bin\Debug\netcoreapp3.1\ExceptionMethods.runtimeconfig.json
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\bin\Debug\netcoreapp3.1\ExceptionMethods.runtimeconfig.dev.json
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\bin\Debug\netcoreapp3.1\ExceptionMethods.dll
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\bin\Debug\netcoreapp3.1\ExceptionMethods.pdb
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.csproj.AssemblyReference.cache
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.AssemblyInfoInputs.cache
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.AssemblyInfo.cs
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.csproj.CoreCompileInputs.cache
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.dll
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.pdb
+C:\Users\simar\OneDrive\Desktop\proje\ExceptionMethods\ExceptionMethods\obj\Debug\netcoreapp3.1\ExceptionMethods.genruntimeconfig.cache
